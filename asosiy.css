@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    
+}
+
+a{
+    margin: 20px 45px;
+    font-size: 25px;
+    color: black;
+    justify-content: space-between;
+}
